@@ -1,0 +1,26 @@
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#but{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(43, 43, 192);
+    color: aliceblue;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 400px;
+    border-radius: 5px;
+    
+}
+#but:hover{
+    background-color: rgb(57, 119, 194);
+}
+#res{
+    border: solid,2px;
+    padding: 5px;
+    margin-top: 5px;
+    }
